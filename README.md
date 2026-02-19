@@ -30,17 +30,17 @@ It predicts the **intent**, **topic**, and **difficulty level** of a student que
 
 ### Prerequisites
 
-- Python 3.10+ installed: [Download Python](https://www.python.org/downloads/)  
-- Git installed: [Download Git](https://git-scm.com/downloads)  
-- VS Code (optional but recommended): [Download VS Code](https://code.visualstudio.com/)  
+- Python 3.10+ installed: [Download Python](https://www.python.org/downloads/release/python-3100/)  
+- Git installed: [Download Git]([https://git-scm.com/downloads](https://desktop.github.com/download/))  
+- VS Code (optional but recommended): [Download VS Code]([https://code.visualstudio.com/](https://code.visualstudio.com/download))  
 
 ### Steps
 
 1. **Clone the repository**
 ```bash```
 
-2.git clone https://github.com/your-username/student-query-understanding.git
-cd student-query-understanding
+2.git clone https://github.com/Sahukar-Reshma/Student-Query-Understanding-Analysis
+cd Student-Query-Understanding-Analysis
 
 3.Install dependencies
 
