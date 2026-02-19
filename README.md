@@ -77,5 +77,5 @@ student-query-understanding/
 └─ README.md                # Project documentation
 
 
-git clone https://github.com/your-username/student-query-understanding.git
-cd student-query-understanding
+git clone https://github.com/Sahukar-Reshma/Student-Query-Understanding-Analysis
+cd Student-Query-Understanding-Analysis
